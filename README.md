@@ -1,4 +1,4 @@
-# # Mobile page focusing on typography
+# Mobile page focusing on typography
 
 A single fixed width mobile page that try to practise text decoration such as Line Height, Letter Spacing, Font Weight, Colour, and type
 
